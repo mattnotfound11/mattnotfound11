@@ -1,5 +1,7 @@
 # 💫 About Me:
-BSIT student and web developer at Cascade Development Group, working toward a career in security engineering. I build responsive, client-ready websites while studying cybersecurity and earning certifications. Open to learning, collaborating, and growing.
+Third-year BS Information Technology student at the University of San Agustin. I build web applications that solve concrete problems, with a focus on security in everything I ship. I create websites as a way to sharpen my skills and deepen my technical knowledge, and I'm driven to apply what I learn toward a future career in the field.
+
+Student by day, builder by habit. I care about software that people actually use, not demos that only look good in a screenshot.
 
 
 # 💻 Tech Stack:
